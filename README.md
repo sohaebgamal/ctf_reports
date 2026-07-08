@@ -1,7 +1,6 @@
 # CTF Reports
 
-> "The quieter you become, the more you are able to hear."
-> — Kali Linux motto
+> "Great hackers don't break systems—they understand them."
 
 Penetration test reports for completed CTF / lab machines.
 
