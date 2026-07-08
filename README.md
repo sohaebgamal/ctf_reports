@@ -1,5 +1,8 @@
 # CTF Reports
 
+> "The quieter you become, the more you are able to hear."
+> — Kali Linux motto
+
 Penetration test reports for completed CTF / lab machines.
 
 > ⚠️ **Note:** GitHub's in-browser viewer may fail to render these PDFs
