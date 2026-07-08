@@ -12,6 +12,11 @@ Penetration test reports for completed CTF / lab machines.
 |---------|-------------------|----------|
 | **Lookup** | [📄 GitHub](https://github.com/sohaebgamal/ctf_reports/blob/main/Lookup_Penetration_Test_Report.pdf) · [🌐 Viewer](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sohaebgamal/ctf_reports/main/Lookup_Penetration_Test_Report.pdf) | [⬇️ Download](https://raw.githubusercontent.com/sohaebgamal/ctf_reports/main/Lookup_Penetration_Test_Report.pdf) |
 | **UltraTech** | [📄 GitHub](https://github.com/sohaebgamal/ctf_reports/blob/main/UltraTech_Penetration_Test_Report.pdf) · [🌐 Viewer](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sohaebgamal/ctf_reports/main/UltraTech_Penetration_Test_Report.pdf) | [⬇️ Download](https://raw.githubusercontent.com/sohaebgamal/ctf_reports/main/UltraTech_Penetration_Test_Report.pdf) |
+| **Kaboom** | [📄 GitHub](https://github.com/sohaebgamal/ctf_reports/blob/main/Kaboom_Pentest_Report1.pdf) · [🌐 Viewer](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sohaebgamal/ctf_reports/main/Kaboom_Pentest_Report1.pdf) | [⬇️ Download](https://raw.githubusercontent.com/sohaebgamal/ctf_reports/main/Kaboom_Pentest_Report1.pdf) |
+
+### Kaboom — Attack Path Mindmap
+
+![Kaboom Attack Path Mindmap](Kaboom_Attack_Path_Mindmap.jpeg)
 
 ### ملاحظة
 - **GitHub** = عارض GitHub المدمج (يفتح داخل الصفحة).
